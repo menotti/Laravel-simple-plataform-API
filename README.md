@@ -18,7 +18,7 @@ GRANT ALL PRIVILEGES ON laravelApp.* TO 'laravelRoot'@'localhost' IDENTIFIED BY 
 
 ```bash
 DB_CONNECTION=mysql
-DB_HOST=
+DB_HOST=localhost
 DB_PORT=3306
 DB_DATABASE=laravelApp
 DB_USERNAME=laravelRoot
