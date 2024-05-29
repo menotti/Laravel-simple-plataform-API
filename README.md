@@ -24,3 +24,15 @@ DB_DATABASE=laravelApp
 DB_USERNAME=laravelRoot
 DB_PASSWORD=password
 ```
+
+
+# MAKED
+ - [x] Create a MySQL database
+ - [x] On .env file
+ - [X] Create a Laravel Breeze API
+ - [X] Create a User model
+ - [X] Create a User controller
+ - [X] Create a User migration
+ - [x] Add Swagger to the project
+
+# TO MAKE
